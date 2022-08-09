@@ -11,6 +11,7 @@ import {
 } from './data-grid/index';
 import {vsCodeDivider} from './divider/index';
 import {vsCodeDropdown} from './dropdown/index';
+import {vsCodeImg} from './img/index';
 import {vsCodeLink} from './link/index';
 import {vsCodeOption} from './option/index';
 import {vsCodePanels, vsCodePanelTab, vsCodePanelView} from './panels/index';
@@ -51,6 +52,7 @@ export {
 	vsCodeDivider,
 	vsCodeDropdown,
 	vsCodeLink,
+	vsCodeImg,
 	vsCodeOption,
 	vsCodePanels,
 	vsCodePanelTab,
@@ -79,6 +81,7 @@ export const allComponents = {
 	vsCodeDataGridRow,
 	vsCodeDivider,
 	vsCodeDropdown,
+	vsCodeImg,
 	vsCodeLink,
 	vsCodeOption,
 	vsCodePanels,

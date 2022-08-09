@@ -12,6 +12,7 @@ import {
 	vsCodeDataGridRow,
 	vsCodeDivider,
 	vsCodeDropdown,
+	vsCodeImg,
 	vsCodeLink,
 	vsCodeOption,
 	vsCodePanels,
@@ -76,6 +77,8 @@ export const VSCodeDataGrid = wrap(vsCodeDataGrid(), {
 export const VSCodeDataGridCell = wrap(vsCodeDataGridCell(), {
 	name: 'vscode-data-grid-cell',
 });
+
+export const VSCodeImg = wrap(vsCodeImg(), { name: 'vscode-img' });
 
 /**
  * VS Code Data Grid Row React component.

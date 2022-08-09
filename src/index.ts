@@ -11,6 +11,7 @@ export * from './checkbox/index';
 export * from './data-grid/index';
 export * from './divider/index';
 export * from './dropdown/index';
+export * from './img/index';
 export * from './link/index';
 export * from './option/index';
 export * from './panels/index';
